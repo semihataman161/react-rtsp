@@ -21,10 +21,3 @@ function App() {
 }
 
 export default App;
-
-<RTSPPlayer
-  webSocketEndpoint='ws://localhost:2000/api/stream'
-  rtspUserName='admin'
-  rtspPassword='12345'
-  rtspUrl='rtsp://192.168.1.210:554/Streaming/Channels/101'
-/> 
